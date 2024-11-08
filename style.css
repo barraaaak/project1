@@ -2,7 +2,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: #edcaf5;
     color: #683a3a;
-    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
