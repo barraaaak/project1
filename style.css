@@ -6,3 +6,9 @@ body {
     flex-direction: column;
     align-items: center;
 }
+form{
+    background-color: white;
+}
+.bouton{
+    border-radius: 20px;
+}
